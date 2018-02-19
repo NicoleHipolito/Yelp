@@ -37,7 +37,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 I had a hard time wrapping my mind around how I was going to do the search part of the app but I ended up understanding it more when I looked through more functionalities of the UISearchBar
 
 ## License
